@@ -19,3 +19,7 @@ html, body {
     margin-left: -75px;
 }
 
+#jugador-cartas, #dealer-cartas {
+    height: 220px;
+
+}
